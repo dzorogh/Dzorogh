@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey
 - 👀 I’m interested in Full-stack Webdev
-- 💞️ I’m looking to collaborate on modern frontend or Full-stack project
+- 💞️ I’m looking to collaborate on modern frontend or full-stack project
 - 📫 How to reach me: dzorogh@gmail.com or @dzorogh at Telegram
 
 <!---
